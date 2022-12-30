@@ -1,7 +1,7 @@
 # ADS_2022
 This course includes:
-  ● Complexity
-  ● Memory
+  * Complexity
+  * Memory
 L2. Basic Data Structures.
   ● Stack
   ● Queue
